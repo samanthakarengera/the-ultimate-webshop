@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    background-color: rgb(255, 255, 255);
+    color: #333;
+}
+
+header,
+footer {
+    background-color: #FFB6C1;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #FFB6C1;
+}
+
+.logo img {
+    height: 200px;
+}
+
+
+nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+
+.intro {
+    padding: 80px 40px;
+    text-align: center;
+    background-color: #cf27278c;
+}
+
+.intro h1 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+}
+
+
+.products {
+    padding: 60px 40px;
+}
+
+.product-grid {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    width: 300px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    position: relative;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+.label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: black;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.label.sale {
+    background: darkred;
+}
+
+.price {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    background: #FFB6C1;
+    color: white;
+    padding: 8px 12px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background: #FFB6C1;
+
+}
+.admin-link {
+    display: block;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #333;
+    text-decoration: none;
+}
+
+
+/* PRODUCT DETAIL PAGE */
+
+.product-detail {
+    padding: 60px 40px;
+}
+
+.product-info {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.product-info img {
+    width: 300px;
+}
+
+.details {
+    max-width: 400px;
+}
+
+.description {
+    margin: 20px 0;
+}
+
+.specs {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.add-to-cart {
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.related-products {
+    margin-top: 80px;
+}
+.product-card a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
