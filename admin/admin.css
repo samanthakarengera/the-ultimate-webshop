@@ -99,11 +99,9 @@ button {
     padding: 10px 10px;
     border: none;
     cursor: pointer;
+    background-color: #FFB6C1;
 }
 
-button.delete {
-    background-color: #e57373;
-}
 
 .product-form {
     max-width: 400px;
@@ -128,4 +126,13 @@ button.delete {
     background-color: #FFB6C1;
     border: none;
     cursor: pointer;
+}
+.add-product {
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 8px 14px;
+    background-color: #FFB6C1;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
 }
