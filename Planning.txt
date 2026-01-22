@@ -7,7 +7,7 @@ Dit document laat zien hoe ik mijn webshop stap voor stap aanpak. De taken zijn 
 | Taak                                 | Status     |
 | ------------------------------------ | ---------- |
 | Projectmappen en bestanden aanmaken  | Voltooid |
-| Homepage (index.html) basis opzetten | Voltooid |
+| Homepage (main.html) basis opzetten | Voltooid |
 | CSS koppelen aan HTML                | Voltooid |
 | Kleurenschema bepalen                | Voltooid |
 | Logo maken & concept bedenken        | Voltooid |
@@ -37,14 +37,5 @@ Dit document laat zien hoe ik mijn webshop stap voor stap aanpak. De taken zijn 
 | Product toevoegen / aanpassen formulier | Nog te doen |
 
 
-
-## Prioriteit 4 – Afronding
-
-| Taak                         | Status        |
-| ---------------------------- | ------------- |
-| HTML controleren             | Nog te doen |
-| CSS netjes maken             | Nog te doen |
-
----
 
 Dit plan gebruik ik om overzicht te houden tijdens het werken aan mijn project.
