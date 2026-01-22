@@ -155,4 +155,51 @@ footer {
     color: inherit;
     display: block;
 }
+.about .content {
+    padding: 60px 40px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.about .content p {
+    margin-bottom: 20px;
+}
+/* CONTACT PAGE */
+
+.contact-content {
+    display: flex;
+    gap: 40px;
+    padding: 60px 40px;
+    flex-wrap: wrap;
+}
+
+.contact-form {
+    flex: 1;
+    max-width: 400px;
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.contact-form input,
+.contact-form select,
+.contact-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.contact-info {
+    flex: 1;
+    max-width: 300px;
+}
+.gift-banner {
+    width: 60%;
+    max-width: 900px;
+    display: block;
+    margin: 40px auto;
+    border-radius: 8px;
+}
 
