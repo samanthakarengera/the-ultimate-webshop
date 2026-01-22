@@ -10,7 +10,7 @@ Beheerder kan inloggen via de admin. In de Admin Dashboard zijn de producten te 
 ##AI
 
 AI gebruikt bij het schrijven van beschrijvingen van producten,  het maken van een favicon & genereren van product foto's. 
-Door het beperkte limiet van foto's te generen met ChatGPT missen er enkele product foto's.
+Door het beperkte limiet van foto's te generen met ChatGPT missen er enkele product foto's en zijn die vervangen met andere productfoto's.
 
 ##Bronnen
 
