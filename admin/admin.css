@@ -104,3 +104,28 @@ button {
 button.delete {
     background-color: #e57373;
 }
+
+.product-form {
+    max-width: 400px;
+}
+
+.product-form label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.product-form input,
+.product-form select,
+.product-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.product-form button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #FFB6C1;
+    border: none;
+    cursor: pointer;
+}

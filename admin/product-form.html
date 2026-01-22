@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add / Edit Product | Admin</title>
+
+    <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<header class="admin-header">
+    <h1>Product Management</h1>
+    <a href="dashboard.html">Back to dashboard</a>
+</header>
+
+<main class="admin-content">
+
+    <section class="admin-section">
+        <h2>Add / Edit Product</h2>
+
+        <form class="product-form">
+
+            <label>
+                Product name
+                <input type="text" placeholder="Product name">
+            </label>
+
+            <label>
+                Price (€)
+                <input type="number" step="0.01" placeholder="39.99">
+            </label>
+
+            <label>
+                Stock status
+                <select>
+                    <option>In stock</option>
+                    <option>Low stock</option>
+                    <option>Out of stock</option>
+                </select>
+            </label>
+
+            <label>
+                Category
+                <select>
+                    <option>Vanilla</option>
+                    <option>Coconut</option>
+                    <option>Rose</option>
+                </select>
+            </label>
+
+            <label>
+                Bestseller
+                <input type="checkbox"> Yes
+            </label>
+
+            <label>
+                Description
+                <textarea rows="5" placeholder="Product description"></textarea>
+            </label>
+
+            <button type="submit">Save product</button>
+
+        </form>
+    </section>
+
+</main>
+
+</body>
+</html>
