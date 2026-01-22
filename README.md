@@ -7,12 +7,12 @@ De gebruiker kan een contactformulier invullen.
 
 ##AI
 
-AI gebruikt bij het schrijven van beschrijvingen van producten, het maken van een contact formulier, het maken van een favicon & genereren van product foto's. 
+AI gebruikt bij het schrijven van beschrijvingen van producten,  het maken van een favicon & genereren van product foto's. 
 Door het beperkte limiet van foto's te generen met ChatGPT missen er enkele product foto's.
 
 ##Bronnen
 
-Google Fonts , ChatGPT, cursus Static Web
+Google Fonts , ChatGPT, cursus Static Web , Youtube (https://www.youtube.com/watch?v=2O8pkybH6po&pp=ygUNZm9ybSBodG1sIGNzcw%3D%3D)
 
 ##Planning
 
