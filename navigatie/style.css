@@ -240,3 +240,40 @@ footer {
         width: 90%;
     }
 }
+
+
+
+.newsletter {
+    background-color: #cf27278c;
+    padding: 60px 30px;
+    text-align: center;
+}
+
+.newsletter h2 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 10px;
+}
+
+.newsletter p {
+    max-width: 500px;
+    margin: 0 auto 25px;
+}
+
+.newsletter-form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.newsletter-form input {
+    padding: 10px;
+    width: 250px;
+    border: none;
+}
+
+.newsletter-form button {
+    border: none;
+    cursor: pointer;
+}
+
