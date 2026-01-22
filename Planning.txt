@@ -31,10 +31,10 @@ Dit document laat zien hoe ik mijn webshop stap voor stap aanpak. De taken zijn 
 
 | Taak                                    | Status        |
 | --------------------------------------- | ------------- |
-| Admin map aanmaken                      | Nog te doen |
-| Admin login pagina                      | Nog te doen |
-| Productoverzicht (tabel)                | Nog te doen |
-| Product toevoegen / aanpassen formulier | Nog te doen |
+| Admin map aanmaken                      |  Voltooid  |
+| Admin login pagina                      |  Voltooid  |
+| Productoverzicht (tabel)                |  Voltooid  |
+| Product toevoegen / aanpassen formulier |  Voltooid  |
 
 
 
