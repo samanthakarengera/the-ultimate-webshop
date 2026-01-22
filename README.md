@@ -5,6 +5,8 @@ Gebruiker kan verschillende collecties aanklikken, elk product heeft elk een pag
 De gebruiker kan klikken op Add to cart. De gebruiker krijgt Related Products te zien.
 De gebruiker kan een contactformulier invullen. 
 
+Beheerder kan inloggen via de admin. In de Admin Dashboard zijn de producten te zien, status van voorraad en de "mogelijkheid" om te wijzigen of verwijderen.
+
 ##AI
 
 AI gebruikt bij het schrijven van beschrijvingen van producten,  het maken van een favicon & genereren van product foto's. 
