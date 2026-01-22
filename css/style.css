@@ -1,3 +1,4 @@
+/* homepage + algemene dingen die op elke pagina voorkomen */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -5,7 +6,7 @@
 }
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway';
     line-height: 1.6;
     background-color: rgb(255, 255, 255);
     color: #333;
@@ -43,7 +44,7 @@ nav a {
 }
 
 .intro h1 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display';
     margin-bottom: 20px;
 }
 
@@ -110,7 +111,6 @@ footer {
     margin-bottom: 30px;
 }
 
-
 .product-grid {
     display: flex;
     flex-wrap: wrap;
@@ -122,7 +122,7 @@ footer {
     width: 280px;
     text-align: center;
 }
-
+/* admin helemaal van beneden */
 .admin-link {
     display: block;
     margin-top: 10px;
@@ -130,7 +130,7 @@ footer {
     color: #333;
     text-decoration: none;
 }
-
+/* product pagina */
 .product-detail {
     padding: 60px 40px;
 }
@@ -166,12 +166,14 @@ footer {
 
 .related-products {
     margin-top: 80px;
+    text-align: center;
 }
 .product-card a {
     text-decoration: none;
     color: inherit;
     display: block;
 }
+/* about us pagina */
 .about .content {
     padding: 60px 40px;
     max-width: 800px;
@@ -182,7 +184,14 @@ footer {
     margin-bottom: 20px;
 }
 
-
+.parfum-foto {
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    margin: 40px auto;
+    border-radius: 8px;
+}
+/* contactpagina */
 .contact-content {
     display: flex;
     gap: 40px;
@@ -212,13 +221,7 @@ footer {
     flex: 1;
     max-width: 300px;
 }
-.gift-banner {
-    width: 60%;
-    max-width: 900px;
-    display: block;
-    margin: 40px auto;
-    border-radius: 8px;
-}
+/* mobiel maken */
 
 @media (max-width: 900px) {
 
@@ -259,6 +262,7 @@ footer {
 }
 
 
+  /* alles over de nieuwsletter */
 
 .newsletter {
     background-color: #cf27278c;
@@ -292,5 +296,6 @@ footer {
 .newsletter-form button {
     border: none;
     cursor: pointer;
+    font-family: "Raleway";
 }
 
