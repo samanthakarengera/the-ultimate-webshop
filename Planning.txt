@@ -1,0 +1,48 @@
+# Plan van aanpak – Webshop project
+
+Dit document laat zien hoe ik mijn webshop stap voor stap aanpak. De taken zijn gesorteerd op prioriteit. 
+
+## Prioriteit 1 – Start van het project
+
+| Taak                                 | Status     |
+| ------------------------------------ | ---------- |
+| Projectmappen en bestanden aanmaken  | Voltooid |
+| Homepage (index.html) basis opzetten | Voltooid |
+| CSS koppelen aan HTML                | Voltooid |
+| Kleurenschema bepalen                | Voltooid |
+| Logo maken & concept bedenken        | Voltooid |
+
+
+
+## Prioriteit 2 – Frontend (klantzijde)
+
+| Taak                                 | Status     |
+| ------------------------------------ | ---------- |
+| Navigatie maken                      | Voltooid |
+| Productoverzicht                     | Voltooid |
+| Productdetailpagina maken            | Bezig    |
+| Website responsive maken             | Bezig    |
+
+
+
+## Prioriteit 3 – Admin gedeelte
+
+| Taak                                    | Status        |
+| --------------------------------------- | ------------- |
+| Admin map aanmaken                      | Nog te doen |
+| Admin login pagina                      | Nog te doen |
+| Productoverzicht (tabel)                | Nog te doen |
+| Product toevoegen / aanpassen formulier | Nog te doen |
+
+
+
+## Prioriteit 4 – Afronding
+
+| Taak                         | Status        |
+| ---------------------------- | ------------- |
+| HTML controleren             | Nog te doen |
+| CSS netjes maken             | Nog te doen |
+
+---
+
+Dit plan gebruik ik om overzicht te houden tijdens het werken aan mijn project.
