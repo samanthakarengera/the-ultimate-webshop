@@ -20,8 +20,8 @@ Dit document laat zien hoe ik mijn webshop stap voor stap aanpak. De taken zijn 
 | ------------------------------------ | ---------- |
 | Navigatie maken                      | Voltooid |
 | Productoverzicht                     | Voltooid |
-| Productdetailpagina maken            | Bezig    |
-| Website responsive maken             | Bezig    |
+| Productdetailpagina maken            | Voltooid |
+| Website responsive maken             | Voltooid |
 
 
 
