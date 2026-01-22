@@ -203,3 +203,40 @@ footer {
     border-radius: 8px;
 }
 
+@media (max-width: 900px) {
+
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .product-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product-card {
+        width: 90%;
+        max-width: 400px;
+    }
+
+    .product-detail {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .contact-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .login-container {
+        width: 90%;
+    }
+}
